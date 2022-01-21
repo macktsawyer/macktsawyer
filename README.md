@@ -13,6 +13,8 @@ My name is Mackenzie 'Mack' Sawyer:
 - ⚡ Fun fact: I started programming after working on Discord.py bots due to my love of gaming!
 
 --> ⌨️ My languages: 
+
+
 <img align="left" alt="HTML5 Logo" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="CSS3 Logo" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img align="left" alt="SASS Logo" width="30px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/sass.svg">
