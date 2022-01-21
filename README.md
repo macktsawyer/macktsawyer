@@ -10,7 +10,7 @@ My name is Mackenzie 'Mack' Sawyer:
 - --[LinkedIn](https://www.linkedin.com/in/mack-sawyer-a1722b92/)
 - --[Twitter](https://twitter.com/VulpesCodes)
 - 🔗 My portfolio is: [macksawyer.com](https://macksawyer.com)
-- ⚡ Fun fact: I started programming after working on Discord.py bots due to my love of gaming!
+- ⚡ Fun fact: I started programming after working on Discord.py bots thanks to my love of gaming!
 
 --> ⌨️ My languages: 
 
