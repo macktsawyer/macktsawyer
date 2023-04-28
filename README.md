@@ -22,4 +22,6 @@ My name is Mackenzie 'Mack' Sawyer:
 <img align="left" alt="React JS Logo" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img align="left" alt="Node JS Logo" width="30px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/nodejs.svg">
 <img align="left" alt="Github Logo" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+<img align="left" alt="Github Logo" width="30px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.png">
+
 
